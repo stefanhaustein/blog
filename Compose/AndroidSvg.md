@@ -44,5 +44,3 @@ fun Svg(modifier: Modifier, svg: SVG) {
     }
 }
 ```
-
-fun Svg(modifier: Modifier, svg: SVG) {
