@@ -1,6 +1,6 @@
 # A Blast from the Past
 
-2020-06-28
+2020-06-28 
 		
 Dimitrii Tikhomirov has just [announced a port](https://www.linkedin.com/posts/treblereel_treblereelquake2-gwt-port-activity-6682348732974993408-7toX) 
 of our Quake II GWT demo from 2010 to J2CL.
@@ -108,3 +108,6 @@ Fortunately, Dimitrii has done this for the [NIO Part](https://github.com/treble
 - <a href="https://github.com/stefanhaustein/quake2-playn-port">Quake II PlayN version source code</a>
 - <a href="https://github.com/stefanhaustein/quake2-libgdx-port">Quake II LibGDX version source code</a></li></ul>
 
+## Discussion
+
+- [Twitter Post](https://twitter.com/dukoid/status/1277348712101093376)
