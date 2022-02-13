@@ -3,9 +3,9 @@
 
 Published 2022-02-12
 
-Niklaus Wirth has created [PL/0](https://en.wikipedia.org/wiki/PL/0) as an educational programming lanugae, serving as
-an example of how to construct a compiler. Here, it serves a similar purpose for [ParserLib](https://github.com/kobjects/parserlib),
-illustrating how to use the tokenizer and expression parser.
+My friend Jörg has pointed me to Niklaus Wirth's [PL/0](https://en.wikipedia.org/wiki/PL/0), an educational programming lanugae,
+serving as an example of how to construct a compiler. For a similar purpose, I have added a PL/0 implemetation to the 
+[ParserLib](https://github.com/kobjects/parserlib) examples, illustrating how to use the tokenizer and expression parser.
 
 ### [AndroidSvg with Jetpack Compose](https://github.com/stefanhaustein/blog/blob/main/Compose/AndroidSvg.md)
 
