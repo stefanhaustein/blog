@@ -1,4 +1,3 @@
-<a rel="me" href="https://mastodon.social/@dukoid">Mastodon</a>
 
 ### [Wirth's PL/0 as a ParserLib Example](https://github.com/kobjects/parserlib/blob/main/examples/src/commonMain/kotlin/org/kobjects/parserlib/examples/pl0)
 
